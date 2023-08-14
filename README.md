@@ -28,7 +28,7 @@ Finally, we comparison through inferences across a few video samples:
 
 
 
-https://github.com/Kunaldawn7/Projects-OpenCV-Courses/assets/47062478/c9c70571-2fec-4821-97ed-2378119c8c1c
+https://github.com/j13Lucas/yolo-v3-vs-v4/assets/141825992/c9f84229-006f-4961-ba70-13a1e16a3eb3
 
 
 
